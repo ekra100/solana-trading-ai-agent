@@ -43,4 +43,4 @@ eliza restart --strategy=new-strategy.json
 ```
 
 ## Contact
-Telegram | [dogewhiz](https://t.me/dogewhiz)
+Telegram | [snipmaxi](https://t.me/snipmaxi)
